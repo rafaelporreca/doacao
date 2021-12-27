@@ -1,7 +1,6 @@
 package br.com.rafaelporreca.doacaobackend.Controllers;
 
 import br.com.rafaelporreca.doacaobackend.dto.EstadoDTO;
-import br.com.rafaelporreca.doacaobackend.entities.Estado;
 import br.com.rafaelporreca.doacaobackend.servicies.EstadoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
